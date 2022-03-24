@@ -5,9 +5,6 @@ title: 첫번째 포스팅입니다!
 categories: Algorithm
 tags: [프로그래머스, Python]
 
-toc: true
-toc_sticky: true
-
 date: 2022-03-24
 last_modified_at: 2022-03-24
 ---
