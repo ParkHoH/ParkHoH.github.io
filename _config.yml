@@ -73,7 +73,7 @@ google:
 # SEO Related
 google_site_verification :
 bing_site_verification   :
-naver_site_verification  :
+naver_site_verification  : "895a33366a1cf42c5f05aba8c010338a5f270691"
 yandex_site_verification :
 baidu_site_verification  :
 
@@ -286,7 +286,9 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: # true
+      read_time: false
+      show_date: true
+      comments: true
       share: true
       related: true
+      sidebar_main: true
