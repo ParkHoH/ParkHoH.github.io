@@ -150,7 +150,7 @@ Maven에서는 빌드 순서가 정해져 있고 각각의 단계를 phase라고
 
 [공식 홈페이지](https://docs.gradle.org/current/userguide/what_is_gradle.html)를 보면 Gradle에 대해 알아야 할 5가지 사항을 명시하고 있다.
 1. <B>Gradle is a general-purpose build tool(범용적인 빌드 도구)</B>: Gradle은 어떤 소프트웨어에서도 빌드가 가능하도록 돕는다.
-2. <B>The core model is based on tasks(핵심 모델은 작업에 기반하고 있음)</B>: Gradle에서는 거의 모든 빌드 프로세스를 DAG라는 그래프로 모델링하는데, 이 부분이 Gradle을 유연하게 만들어주는 이유라고 한다(읽어봤는지 솔직히 이해하지 못했다..ㅋㅋ)
+2. <B>The core model is based on tasks(핵심 모델은 작업에 기반하고 있음)</B>: Gradle에서는 거의 모든 빌드 프로세스를 DAG라는 그래프로 모델링하는데, 이 부분이 Gradle을 유연하게 만들어주는 이유라고 한다(읽어봤는데 솔직히 이해하지 못했다..ㅋㅋ)
 3. <B>Gradle has several fixed build phases(몇 가지 고정된 필드 phase를 갖고 있음)</B>: Initialization(초기화) - Configuration(구성) - Execution(실행) 단계로 이루어져있고, 이 과정은 Gradle의 빌드 Lifecycle을 형성한다.
 4. <B>Gradle is extensible in more ways than one(여러 가지의 확장 가능성)</B>
 5. <B>Build scripts operate against an API(API에 기반해 빌드 스크립트 동작)</B>
