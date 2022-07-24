@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "Hohyun Park"
-  avatar           : /assets/images/avatar.jpg
+  avatar           : #/assets/images/avatar.jpg
   bio              : "기술/공부 블로그"
   location         : "Seoul, Korea"
   links:
